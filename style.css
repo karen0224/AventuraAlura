@@ -1,4 +1,5 @@
 body {
+    /*Karen Gabriele 3D 24/09/2024*/
     background-color: #1D4221;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
@@ -39,7 +40,8 @@ img {
     background: rgb(48, 48, 48);
     color: rgb(40, 255, 21);
 }
-.final:hover{
+.final:hover{ 
+    /*Karen Gabriele 3D 24/09/2024*/
     background:rgb(26, 26, 26);
     color: rgb(190,0,0);
 }
